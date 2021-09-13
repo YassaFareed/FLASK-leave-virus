@@ -1,0 +1,12 @@
+		Setting up flask 
+
+Launch vscode using anaconda navigator
+
+follow this to create virtual environment
+https://code.visualstudio.com/docs/python/tutorial-flask
+
+
+once done, inside the environment you set install these:
+python -m pip install Pillow
+pip install --upgrade tensorflow
+pip install numpy
